@@ -1,0 +1,16 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "this is a http server my mobile app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "mongodb": "^3.6.2"
+  }
+}
